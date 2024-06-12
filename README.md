@@ -21,3 +21,5 @@
 ## CI/CD
 
 Проект настроен на использование GitHub Actions для автоматического тестирования при каждом push и pull request в ветку main. Уведомления о результатах тестирования отправляются в Telegram.
+
+[![GitHub Action](https://github.com/mg-alima/tz2/actions/workflows/maven.yml/badge.svg)](https://github.com/mg-alima/tz2/actions/workflows/maven.yml)
